@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iris-nl
 - 👀 I’m interested in webdesign and content marketing
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on high performance website building
 - 📫 Email: iris@newloong.com
 
